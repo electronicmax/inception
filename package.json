@@ -1,0 +1,18 @@
+{
+  "name": "AFinity",
+  "description": "AFinity App for Atrial Fibrillation",
+  "dependencies": {
+    "gulp": "",
+    "gulp-util": "",
+    "gulp-ng-annotate": "",
+    "gulp-concat": "",
+    "gulp-uglify": "",
+    "gulp-less": "",
+    "gulp-rename": "",
+    "jshint-stylish": "",
+    "gulp-jshint": "",
+    "jasmine": "~2.2.1",
+    "gulp-imagemin":"",
+    "imagemin-pngquant":""
+  }
+}
