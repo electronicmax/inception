@@ -1,5 +1,5 @@
 {
-  "name": "AFinity",
+  "name": "inception",
   "version": "0.0.0",
   "homepage": "https://github.com/sociam/indx",
   "authors": [
@@ -29,13 +29,13 @@
     "angular-animate": "",
     "angular-touch": "",
     "fastclick": "",
-    "blueimp-load-image": "~1.13.0",
     "pouchdb": "",
     "chai": "~2.2.0",
     "mocha": "~2.2.1",
     "socket.io-client": "~1.3.5",
     "angular-sanitize": "",
     "ionicons": "~2.0.1",
-    "pouchdb-all-dbs": ""
+    "pouchdb-all-dbs": "",
+    "peerjs": "~0.3.14"
   }
 }
